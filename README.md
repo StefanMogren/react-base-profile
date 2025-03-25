@@ -2,6 +2,7 @@
 Grundprofilen för nya React-projekt.
 
 Kom ihåg att även köra **"npm install"** i mappen där projektet finns då "node_modules" ej inkluderas i repot.
+
 Vill du byta namn på React-projektet så kan du göra det i "package.json".
 
 Använder sig av:
