@@ -1,7 +1,8 @@
 # react-base-profile
 Grundprofilen för nya React-projekt.
 
-Kom ihåg att även köra **"npm install"** i mappen där projektet finns då "node_modules" ej inkluderas i repot.
+Kom ihåg att köra **"npm install"** då "node_modules" ej inkluderas i repot.
+Kom även ihåg att köra **"npm i axios"**
 
 Vill du byta namn på React-projektet så kan du göra det i "package.json".
 
@@ -10,6 +11,7 @@ Använder sig av:
 * Node.js v22.14.0
 * NPM v11.2.0
 * Vite v6.2.2, win32-x64
+* Axios v1.8.4
 
 		"@eslint/js": "^9.21.0",
 		"@types/react": "^19.0.10",
